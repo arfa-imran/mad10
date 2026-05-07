@@ -1,3 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">MADLAB10</string>
+    <string name="app_name">SignupLab</string>
+
+    <!-- Array for Spinner/Select Box -->
+    <string-array name="country_array">
+        <item>Select Country</item>
+        <item>Pakistan</item>
+        <item>United States</item>
+        <item>United Kingdom</item>
+        <item>Canada</item>
+        <item>Australia</item>
+    </string-array>
+
+    <string name="arfa_moti">Arfa Moti</string>
+    <string name="degree">Degree</string>
 </resources>

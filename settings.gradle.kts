@@ -22,6 +22,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MADLAB10"
+rootProject.name = "LAB MAD"
 include(":app")
  
